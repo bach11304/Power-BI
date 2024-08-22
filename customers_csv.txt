@@ -1,0 +1,202 @@
+customer_id,first_name,last_name,customer_email,customer_phone,customer_address,customer_city,customer_state,customer_country,customer_zipcode,customer_registration_date,created_at,updated_at
+1,John,Doe,john.doe@example.com,555-1234,123 Elm St,Springfield,IL,62701,USA,1980-01-15,2022-05-10
+2,Jane,Smith,jane.smith@example.com,555-5678,456 Oak St,Metropolis,NY,10001,USA,1985-07-22,2022-06-15
+3,Bob,Johnson,bob.johnson@example.com,555-8765,789 Pine St,Gotham,CA,90210,USA,1990-02-10,2022-07-20
+4,Alice,Williams,alice.williams@example.com,555-4321,321 Maple St,Smallville,TX,73301,USA,1975-11-30,2022-08-25
+5,Charlie,Brown,charlie.brown@example.com,555-6789,654 Birch St,Star City,FL,33101,USA,1995-12-25,2022-09-30
+6,David,Jones,david.jones@example.com,555-9876,987 Cedar St,Central City,NJ,07001,USA,1988-03-15,2022-10-05
+7,Eva,Martinez,eva.martinez@example.com,555-2468,246 Spruce St,Coast City,PA,19019,USA,1992-04-20,2022-11-10
+8,Fred,Garcia,fred.garcia@example.com,555-1357,135 Redwood St,Bludhaven,OH,44101,USA,1978-05-05,2022-12-15
+9,Grace,Hernandez,grace.hernandez@example.com,555-8642,864 Sequoia St,Metropolis,MI,48101,USA,1982-06-30,2023-01-20
+10,Hank,Lopez,hank.lopez@example.com,555-9753,975 Fir St,Central City,WI,53201,USA,1991-07-25,2023-02-25
+11,Ivy,Clark,ivy.clark@example.com,555-0862,086 Ash St,Gotham,MA,02101,USA,1984-08-15,2023-03-30
+12,Jack,Robinson,jack.robinson@example.com,555-1974,197 Willow St,Star City,NC,27501,USA,1993-09-10,2023-04-05
+13,Kate,Walker,kate.walker@example.com,555-3086,308 Poplar St,Smallville,VA,22001,USA,1986-10-05,2023-05-10
+14,Liam,Harris,liam.harris@example.com,555-4198,419 Dogwood St,Bludhaven,CO,80001,USA,1994-11-25,2023-06-15
+15,Mia,Lee,mia.lee@example.com,555-5207,520 Cherry St,Springfield,WA,98001,USA,1979-12-20,2023-07-20
+16,Noah,Young,noah.young@example.com,555-6319,631 Juniper St,Metropolis,OR,97001,USA,1990-01-30,2023-08-25
+17,Olivia,King,olivia.king@example.com,555-7428,742 Magnolia St,Gotham,MO,63101,USA,1987-02-20,2023-09-30
+18,Paul,Scott,paul.scott@example.com,555-8537,853 Elm St,Central City,GA,30301,USA,1992-03-15,2023-10-05
+19,Quinn,Adams,quinn.adams@example.com,555-9642,964 Oak St,Star City,AZ,85001,USA,1981-04-10,2023-11-10
+20,Rachel,Moore,rachel.moore@example.com,555-0753,075 Pine St,Smallville,IN,46201,USA,1995-05-05,2023-12-15
+21,Sam,Baker,sam.baker@example.com,555-1864,186 Maple St,Bludhaven,TN,37201,USA,1983-06-25,2023-12-15
+22,Tina,Hall,tina.hall@example.com,555-2975,297 Birch St,Coast City,AL,35201,USA,1994-07-15,2024-01-20
+23,Uma,Allen,uma.allen@example.com,555-4086,408 Cedar St,Metropolis,KS,66001,USA,1980-08-05,2024-02-25
+24,Vic,Evans,vic.evans@example.com,555-5197,519 Spruce St,Gotham,OK,73101,USA,1991-09-10,2024-03-30
+25,Walt,Turner,walt.turner@example.com,555-6208,620 Redwood St,Central City,LA,70101,USA,1977-10-20,2024-04-05
+26,Xena,Murphy,xena.murphy@example.com,555-7319,731 Sequoia St,Star City,KY,40501,USA,1985-11-30,2024-05-10
+27,Yara,Bell,yara.bell@example.com,555-8420,842 Fir St,Smallville,AR,72201,USA,1993-12-25,2024-06-15
+28,Zane,Bryant,zane.bryant@example.com,555-9531,953 Ash St,Bludhaven,IA,50301,USA,1989-01-15,2024-07-20
+29,Abby,Diaz,abby.diaz@example.com,555-0642,064 Willow St,Coast City,MS,39201,USA,1992-02-10,2024-08-25
+30,Ben,Foster,ben.foster@example.com,555-1753,175 Poplar St,Metropolis,MT,59101,USA,1981-03-25,2024-09-30
+31,Claire,Perry,claire.perry@example.com,555-2864,286 Dogwood St,Gotham,NE,68101,USA,1987-04-15,2024-10-05
+32,Dylan,Reed,dylan.reed@example.com,555-3975,397 Cherry St,Central City,DE,19901,USA,1990-05-20,2024-11-10
+33,Ella,Stewart,ella.stewart@example.com,555-5086,508 Juniper St,Star City,ND,58101,USA,1983-06-30,2024-12-15
+34,Finn,Howard,finn.howard@example.com,555-6197,619 Magnolia St,Smallville,NV,89101,USA,1995-07-25,2024-01-20
+35,Gina,Martin,gina.martin@example.com,555-7308,730 Elm St,Bludhaven,SD,57101,USA,1978-08-10,2024-02-25
+36,Hugo,Clark,hugo.clark@example.com,555-8419,841 Oak St,Coast City,ID,83701,USA,1993-09-05,2024-03-30
+37,Iris,Torres,iris.torres@example.com,555-9530,953 Pine St,Metropolis,ME,04101,USA,1982-10-15,2024-04-05
+38,Jackie,Ross,jackie.ross@example.com,555-0641,064 Maple St,Gotham,NM,87101,USA,1991-11-25,2024-05-10
+39,Kevin,Nguyen,kevin.nguyen@example.com,555-1752,175 Birch St,Central City,VT,05601,USA,1979-12-05,2024-06-15
+40,Lana,Kim,lana.kim@example.com,555-2863,286 Cedar St,Star City,WV,26501,USA,1988-01-20,2024-07-20
+41,Mike,Smith,mike.smith@example.com,555-3974,397 Cedar St,Smallville,WI,53201,USA,1982-11-15,2024-08-25
+42,Nina,Rogers,nina.rogers@example.com,555-5085,508 Spruce St,Coast City,UT,84101,USA,1990-12-20,2024-09-30
+43,Oscar,Morris,oscar.morris@example.com,555-6196,619 Redwood St,Metropolis,NH,03101,USA,1985-01-05,2024-10-05
+44,Penny,Mitchell,penny.mitchell@example.com,555-7307,730 Sequoia St,Gotham,RI,02901,USA,1992-02-25,2024-11-10
+45,Quincy,Edwards,quincy.edwards@example.com,555-8418,841 Fir St,Central City,AK,99501,USA,1988-03-20,2024-12-15
+46,Rachel,Scott,rachel.scott@example.com,555-9539,953 Ash St,Star City,HI,96801,USA,1979-04-10,2025-01-20
+47,Steve,Turner,steve.turner@example.com,555-0640,064 Willow St,Smallville,MD,21201,USA,1983-05-15,2025-02-25
+48,Tina,Price,tina.price@example.com,555-1751,175 Poplar St,Bludhaven,VT,05601,USA,1991-06-20,2025-03-30
+49,Uma,Alexander,uma.alexander@example.com,555-2862,286 Dogwood St,Coast City,ND,58101,USA,1986-07-05,2025-04-05
+50,Victor,Henderson,victor.henderson@example.com,555-3973,397 Cherry St,Metropolis,MT,59101,USA,1994-08-15,2025-05-10
+51,Wendy,Martin,wendy.martin@example.com,555-5084,508 Juniper St,Gotham,SD,57101,USA,1980-09-25,2025-06-15
+52,Xander,Reed,xander.reed@example.com,555-6195,619 Magnolia St,Central City,NE,68101,USA,1993-10-10,2025-07-20
+53,Yasmin,Carter,yasmin.carter@example.com,555-7306,730 Elm St,Star City,NM,87101,USA,1977-11-30,2025-08-25
+54,Zachary,Foster,zachary.foster@example.com,555-8417,841 Oak St,Smallville,ID,83701,USA,1990-12-05,2025-09-30
+55,Aiden,Bell,aiden.bell@example.com,555-9538,953 Pine St,Bludhaven,ME,04101,USA,1989-01-15,2025-10-05
+56,Brianna,Flores,brianna.flores@example.com,555-0649,064 Maple St,Coast City,NV,89101,USA,1995-02-10,2025-11-10
+57,Charles,Hughes,charles.hughes@example.com,555-1758,175 Birch St,Metropolis,IA,50301,USA,1984-03-25,2025-12-15
+58,Diana,Patel,diana.patel@example.com,555-2867,286 Cedar St,Gotham,MS,39201,USA,1992-04-15,2026-01-20
+59,Evan,Barnes,evan.barnes@example.com,555-3970,397 Spruce St,Central City,KS,66001,USA,1987-05-05,2026-02-25
+60,Fiona,Yang,fiona.yang@example.com,555-5081,508 Redwood St,Star City,OK,73101,USA,1994-06-20,2026-03-30
+61,George,Harris,george.harris@example.com,555-6192,619 Sequoia St,Smallville,LA,70101,USA,1980-
+61,George,Harris,george.harris@example.com,555-6192,619 Sequoia St,Smallville,LA,70101,USA,1980-07-10,2026-04-05
+62,Hannah,Robinson,hannah.robinson@example.com,555-7303,730 Fir St,Bludhaven,KY,40501,USA,1991-08-30,2026-05-10
+63,Ivan,Kim,ivan.kim@example.com,555-8414,841 Ash St,Coast City,AR,72201,USA,1985-09-25,2026-06-15
+64,Jenna,White,jenna.white@example.com,555-9525,952 Willow St,Metropolis,IA,50301,USA,1993-10-20,2026-07-20
+65,Kyle,Thompson,kyle.thompson@example.com,555-0636,063 Poplar St,Gotham,MS,39201,USA,1984-11-15,2026-08-25
+66,Lauren,Lee,lauren.lee@example.com,555-1747,174 Dogwood St,Central City,MT,59101,USA,1996-12-10,2026-09-30
+67,Matt,Martinez,matt.martinez@example.com,555-2858,285 Cherry St,Star City,SD,57101,USA,1988-01-05,2026-10-05
+68,Nora,Garcia,nora.garcia@example.com,555-3969,396 Juniper St,Smallville,ND,58101,USA,1990-02-15,2026-11-10
+69,Oscar,Brown,oscar.brown@example.com,555-5070,507 Magnolia St,Bludhaven,NV,89101,USA,1982-03-05,2026-12-15
+70,Paula,Wilson,paula.wilson@example.com,555-6181,618 Elm St,Coast City,ME,04101,USA,1994-04-25,2027-01-20
+71,Quentin,Murphy,quentin.murphy@example.com,555-7292,729 Oak St,Metropolis,ID,83701,USA,1987-05-10,2027-02-25
+72,Rita,Collins,rita.collins@example.com,555-8403,840 Pine St,Gotham,NM,87101,USA,1992-06-15,2027-03-30
+73,Sam,Nguyen,sam.nguyen@example.com,555-9514,951 Maple St,Central City,VT,05601,USA,1985-07-05,2027-04-05
+74,Tina,Clark,tina.clark@example.com,555-0625,062 Birch St,Star City,WV,26501,USA,1991-08-10,2027-05-10
+75,Uma,Walker,uma.walker@example.com,555-1736,173 Cedar St,Smallville,WI,53201,USA,1983-09-25,2027-06-15
+76,Vic,Hall,vic.hall@example.com,555-2847,284 Spruce St,Bludhaven,UT,84101,USA,1994-10-15,2027-07-20
+77,Walter,Lewis,walter.lewis@example.com,555-3958,395 Redwood St,Coast City,NH,03101,USA,1988-11-05,2027-08-25
+78,Xena,Young,xena.young@example.com,555-5069,506 Sequoia St,Metropolis,RI,02901,USA,1990-12-20,2027-09-30
+79,Yara,King,yara.king@example.com,555-6170,617 Fir St,Gotham,AK,99501,USA,1984-01-15,2027-10-05
+80,Zane,Wright,zane.wright@example.com,555-7281,728 Ash St,Central City,HI,96801,USA,1995-02-25,2027-11-10
+81,Amy,Scott,amy.scott@example.com,555-8392,839 Willow St,Star City,MD,21201,USA,1987-03-20,2027-12
+82,Elizabeth,Mosley,theresa15@bass.com,0625657285
+83,Laurie,Potts,baileymarie@bailey-wilson.com,(532)426-0787x6900
+84,Diane,Thomas,brownmark@gmail.com,861.813.8999
+85,Peter,Williams,jasonberry@hood-carlson.com,325-911-4935
+86,Ricardo,Smith,brittanyhines@becker-sanchez.biz,001-018-815-4427x496
+87,Kimberly,Mullen,myerserika@gray-pearson.info,+1-173-867-1923x5076
+88,Laura,Lewis,davidvargas@jones.biz,+1-606-054-9911x23291
+89,Kevin,Hernandez,dmueller@gmail.com,916.681.3862
+90,Mitchell,Richardson,timothy67@cooley.com,2108685440
+91,John,Lopez,rhatfield@reyes.net,4027531936
+92,Stephen,Nielsen,hectorfischer@yahoo.com,+1-417-353-1158x38073
+93,Jonathan,Perry,sylviarandall@hotmail.com,761-981-3267x77139
+94,Donald,Miller,fjackson@yahoo.com,448.000.6738x336
+95,John,Smith,douglasmiller@ramirez.info,+1-502-185-8123x4371
+96,Gregory,Moore,ekelley@hampton.net,4898704652
+97,Stephanie,Fields,deniseball@gmail.com,810-398-9614
+98,Alexandra,Bradshaw,cranejames@peterson-bernard.com,001-934-122-9320
+99,Christian,Berry,david04@gmail.com,+1-759-515-0314
+100,Laura,Joseph,ifox@gmail.com,136-247-0502
+101,Joseph,Schmidt,taylormichael@rivas.biz,+1-201-720-9309x705
+102,Denise,Parker,james79@ramirez.info,444-943-0162x0524
+103,Spencer,Smith,lukegarcia@gmail.com,346-855-9464
+104,Lisa,Kerr,romerotroy@rice.biz,001-247-333-1318x377
+105,Heather,Flores,alexander69@gmail.com,001-245-527-1376x50871
+106,Jackson,Yates,thomasmelissa@williams-thompson.net,166.187.3313x4198
+107,Nathan,Kelly,hparker@hotmail.com,+1-075-661-9039
+108,Susan,Diaz,eric74@wade-simpson.org,001-309-322-8261x28835
+109,Andrew,Lewis,ryanstacy@salas.com,+1-965-354-8729x429
+110,Kenneth,Morgan,tmiller@stephens.net,201-584-4809x6122
+111,Alexis,Cuevas,qhudson@jacobs.com,(236)101-2531
+112,John,Hernandez,vwilliams@henry.org,(784)784-3331x31970
+113,David,Miller,archerbianca@yahoo.com,+1-697-503-5959x6818
+114,Kimberly,Mack,jenniferwalker@barnes.com,001-853-189-8575x8642
+115,Mark,Brown,williammccall@adams.biz,894-594-0843x49362
+116,Margaret,Robinson,rogersteresa@yahoo.com,+1-192-182-4341x75830
+117,Lance,Nguyen,mary52@reese.biz,+1-023-462-4467x067
+118,Glenn,Morris,jennifer02@yahoo.com,372-255-8822x8425
+119,Carmen,Bailey,garciacarrie@arias.com,775-358-4947
+120,Scott,Lawrence,riddlekristin@yahoo.com,+1-205-296-3095x3756
+121,Sarah,Callahan,ineal@miller.org,413.200.3566
+122,Sarah,Huynh,marshallpaul@hotmail.com,001-899-428-1474x84175
+123,Julian,Jennings,deanna76@richards.com,638-131-6693
+124,Kelly,Lewis,courtney73@gmail.com,(931)908-9876x70335
+125,Pamela,Moyer,jennifermarquez@hotmail.com,354-284-2147x055
+126,Joann,Vance,lewissteve@gmail.com,390-705-8673x7661
+127,Brooke,Owens,morrisonduane@kennedy-lynn.com,(119)879-9896
+128,Zachary,Robertson,psanders@alvarez-price.net,001-719-073-1046
+129,David,Roth,cannongabrielle@dickerson.com,259-641-5526x60155
+130,Mary,Richards,isaac19@dunn.org,153.270.9309x1323
+131,Daniel,Jacobson,davidfranklin@romero.info,(549)792-5198x6985
+132,Bryan,Carpenter,zhenry@moore.com,001-262-065-6615x88857
+133,Evelyn,Holland,kking@mcbride.com,577-954-0552
+134,Mandy,Yates,acarrillo@underwood-rodriguez.com,8410460191
+135,Jody,Davis,evansrebecca@turner-golden.com,804-852-3460x64300
+136,Cameron,Marshall,ehampton@hotmail.com,(215)783-9785x83933
+137,Tamara,Medina,stephenross@yahoo.com,001-802-956-8785x2424
+138,Jennifer,Ortega,tbrown@gmail.com,(022)800-2894x04782
+139,Zachary,Williams,cadkins@briggs-romero.com,933.797.4743x382
+140,Annette,Howard,kmitchell@tucker.com,132.873.7599x2550
+141,Richard,Allen,andrew66@gordon-cunningham.com,575.299.6228
+142,Susan,Hughes,amandathomas@parks.org,001-132-817-3433x2691
+143,Timothy,Wood,allison92@crosby-patterson.com,4886993028
+144,Tonya,Velez,browningaaron@mcclure-mendez.com,910-636-0893x64036
+145,Jocelyn,Espinoza,dillon82@ward.com,001-116-418-4286x252
+146,Brendan,Hayes,miguelporter@yahoo.com,+1-516-766-8544x43232
+147,Russell,Flores,tabbott@yahoo.com,(049)636-8448x033
+148,Kaitlyn,Soto,pnixon@yahoo.com,8457923704
+149,Anna,Bradley,qquinn@yahoo.com,325-118-4202
+150,Fernando,Sanford,erin44@baker-bailey.com,564.030.1524
+151,Amy,Thompson,kmyers@walker.info,125.416.3090x797
+152,Michelle,Rodriguez,wangaustin@gmail.com,3805287588
+153,Ronald,Ward,tanyacruz@jackson-ramsey.com,001-246-187-8855x82711
+154,Brian,Joseph,kenneth35@brown.com,(355)017-9339
+155,Jim,House,wayne95@yahoo.com,505-085-7774
+156,Kylie,Holder,szuniga@yahoo.com,601.298.7563
+157,James,Smith,hansenjohn@gmail.com,905-676-6282x141
+158,Beverly,Schneider,ysoto@davis.com,+1-476-890-7235
+159,Joseph,Harrison,bennettmaria@yahoo.com,001-514-462-8935x0075
+160,Virginia,Roman,ejones@brown.net,(476)277-4875x716
+161,Brandon,Duncan,hammondchristopher@holland-vasquez.com,118-005-2729x39466
+162,Leah,Kelley,ymiller@gmail.com,601-549-6027x153
+163,James,Barrett,william57@carter-davis.com,394-528-7559x231
+164,Natasha,Taylor,jacksontaylor@yahoo.com,658.585.6493x589
+165,Christina,Obrien,jakeconner@gmail.com,001-093-660-8983x60435
+166,Kathryn,Horn,alexanderjohn@yahoo.com,001-330-958-3400x3293
+167,Elizabeth,Moore,egallagher@gmail.com,996.555.6359
+168,Eugene,Adams,rjames@daniels-shea.com,951-337-8596
+169,David,Cross,ambersteele@gmail.com,911.542.1915x2560
+170,Margaret,Monroe,stephen62@gmail.com,509.536.5025x3593
+171,Natalie,Mcgee,tnelson@hotmail.com,019.716.8169
+172,Jeffrey,Winters,john07@webster.com,847.646.8507x97230
+173,Rachael,Wagner,sshaw@copeland.com,(436)208-8847x747
+174,Rachel,Smith,lgriffin@gmail.com,642.264.1678x51533
+175,Samuel,Lewis,barberlauren@santos-johnson.com,408-816-8925x470
+176,Derrick,Young,steeledawn@yahoo.com,001-670-616-3310x1173
+177,James,Turner,scott23@brown-rivers.com,369.826.8629
+178,Troy,Wallace,blackdanielle@george.org,(585)190-7368x953
+179,Gregory,Sellers,brownsherry@hotmail.com,(327)328-1874x02753
+180,Barry,Rivera,kingjoseph@matthews.net,001-928-364-0771
+181,Regina,Christensen,thomasbaker@foley.com,623-788-7280
+182,Christian,Stephens,ibradley@mayo.biz,097-546-8935
+183,Austin,Shannon,alexandercrystal@jensen.biz,013.066.8936x658
+184,Heather,Sanchez,jeremiah10@chung-campos.com,046.256.1953x1612
+185,Amy,Bowman,sallen@yahoo.com,001-002-989-0675x47879
+186,Richard,Page,ashley12@yahoo.com,+1-477-637-5224x69697
+187,Leslie,Martin,sylviasimpson@miranda.com,251.427.6306x7839
+188,Melissa,Hughes,nicholas63@clements.com,6287848028
+189,Tanner,Brewer,mcarson@williams.com,+1-607-631-3250x2943
+190,Roberto,Kirby,pearsonjohn@gmail.com,2885234321
+191,Matthew,Fischer,stephaniemorrison@maldonado.com,+1-735-829-3187x04414
+192,Melissa,Guerrero,laurenherrera@taylor.info,886-525-7727
+193,Brooke,Garcia,florescharles@yahoo.com,038.604.4243x048
+194,Ashley,Johnson,danielescobar@gmail.com,222-302-0825
+195,Duane,Olson,jamie10@yahoo.com,(591)677-0883x72592
+196,Robin,Stevens,pzimmerman@gmail.com,+1-442-522-1131x042
+197,Ronald,Phillips,mmorris@weaver.biz,001-751-755-0999x214
+198,Crystal,Mcdonald,austin28@hotmail.com,524.982.2545
+199,Joseph,Miller,xpena@yahoo.com,+1-158-302-3254
+

@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,phone,address,city,state,zip,customer_type,customer_status
+1,John,Doe,john.doe@example.com,555-1234,123 Main St,Anytown,CA,12345,Individual,Active
+2,Jane,Smith,jane.smith@example.com,555-5678,456 Oak Rd,Somewhere,TX,67890,Business,Active
+3,Michael,Johnson,michael.johnson@example.com,555-9012,789 Elm St,Elsewhere,NY,54321,Individual,Inactive
+4,Emily,Williams,emily.williams@example.com,555-3456,321 Pine Ln,Anywhere,FL,98765,Business,Active
+5,David,Brown,david.brown@example.com,555-7890,654 Maple Ave,Nowhere,IL,43210,Individual,Active
+6,Samantha,Davis,samantha.davis@example.com,555-2109,987 Oak St,Somewhere Else,MI,67890,Business,Inactive
+7,Christopher,Wilson,christopher.wilson@example.com,555-6543,741 Elm Rd,Anyplace,PA,54321,Individual,Active
+8,Olivia,Anderson,olivia.anderson@example.com,555-0987,852 Maple Blvd,Somewhere Else,OH,98765,Business,Active
+9,Daniel,Taylor,daniel.taylor@example.com,555-3456,963 Pine St,Anywhere Else,GA,43210,Individual,Inactive
+10,Isabella,Thomas,isabella.thomas@example.com,555-7890,741 Oak Ln,Nowhere Else,TX,67890,Business,Active
+11,Alexander,Moore,alexander.moore@example.com,555-2109,852 Elm Ave,Anyplace,CA,12345,Individual,Active
+12,Ava,Harris,ava.harris@example.com,555-6543,963 Maple Rd,Somewhere,NY,54321,Business,Inactive
+13,Jacob,Thompson,jacob.thompson@example.com,555-0987,741 Pine Blvd,Elsewhere,FL,98765,Individual,Active
+14,Sophia,White,sophia.white@example.com,555-3456,852 Oak St,Nowhere,IL,43210,Business,Active
+15,William,Clark,william.clark@example.com,555-7890,963 Elm Ln,Anywhere,MI,67890,Individual,Inactive
+16,Abigail,Lewis,abigail.lewis@example.com,555-2109,741 Maple Ave,Somewhere Else,PA,54321,Business,Active
+17,Mason,Walker,mason.walker@example.com,555-6543,852 Pine Rd,Anyplace,OH,98765,Individual,Active
+18,Avery,Hall,avery.hall@example.com,555-0987,963 Oak Blvd,Anywhere Else,GA,43210,Business,Inactive
+19,Benjamin,King,benjamin.king@example.com,555-3456,741 Elm St,Nowhere Else,TX,67890,Individual,Active
+20,Emma,Green,emma.green@example.com,555-7890,852 Maple Ln,Anyplace,CA,12345,Business,Active

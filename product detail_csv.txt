@@ -1,0 +1,31 @@
+customer_id,first_name,last_name,email,phone_number,address_line1,address_line2,city,state,zip_code,country,created_at,updated_at
+1,John,Doe,john.doe@example.com,555-1234,123 Main St,Apartment 1A,Anytown,CA,12345,USA,2022-01-01 00:00:00,2022-01-01 00:00:00
+2,Jane,Smith,jane.smith@example.com,555-5678,456 Oak Rd,,Somewhere,TX,67890,USA,2022-02-15 00:00:00,2022-02-15 00:00:00
+3,Michael,Johnson,michael.johnson@example.com,555-9012,789 Elm St,Unit 2B,Elsewhere,NY,54321,USA,2022-03-30 00:00:00,2022-03-30 00:00:00
+4,Emily,Williams,emily.williams@example.com,555-3456,321 Maple Ave,,Anywhere,FL,98765,USA,2022-04-20 00:00:00,2022-04-20 00:00:00
+5,David,Brown,david.brown@example.com,555-7890,654 Pine Rd,Apartment 3C,Somewhere Else,IL,43210,USA,2022-05-10 00:00:00,2022-05-10 00:00:00
+6,Sarah,Davis,sarah.davis@example.com,555-2345,987 Oak St,,Another Town,OH,76543,USA,2022-06-01 00:00:00,2022-06-01 00:00:00
+7,Christopher,Wilson,christopher.wilson@example.com,555-6789,456 Maple Ln,,Somewhere New,MI,21098,USA,2022-07-15 00:00:00,2022-07-15 00:00:00
+8,Olivia,Anderson,olivia.anderson@example.com,555-0123,789 Pine Rd,Unit 4D,Anyplace,PA,54321,USA,2022-08-25 00:00:00,2022-08-25 00:00:00
+9,Daniel,Taylor,daniel.taylor@example.com,555-4567,321 Oak Ave,,Some Place,GA,98765,USA,2022-09-05 00:00:00,2022-09-05 00:00:00
+10,Ava,Thomas,ava.thomas@example.com,555-8901,654 Elm St,Apartment 5A,Another Place,NC,43210,USA,2022-10-12 00:00:00,2022-10-12 00:00:00
+11,Matthew,Roberts,matthew.roberts@example.com,555-2345,987 Maple Rd,,Somewhere Else,VA,76543,USA,2022-11-20 00:00:00,2022-11-20 00:00:00
+12,Isabella,Walker,isabella.walker@example.com,555-6789,456 Pine Ave,,Another Town,SC,21098,USA,2022-12-01 00:00:00,2022-12-01 00:00:00
+13,Alexander,Hall,alexander.hall@example.com,555-0123,789 Oak St,Unit 6B,Anywhere,TN,54321,USA,2023-01-10 00:00:00,2023-01-10 00:00:00
+14,Sofia,Torres,sofia.torres@example.com,555-4567,321 Elm Rd,,Some Place,AL,98765,USA,2023-02-15 00:00:00,2023-02-15 00:00:00
+15,Jacob,Diaz,jacob.diaz@example.com,555-8901,654 Maple Ave,Apartment 7C,Another Place,LA,43210,USA,2023-03-25 00:00:00,2023-03-25 00:00:00
+16,Mia,Ramirez,mia.ramirez@example.com,555-2345,987 Pine St,,Somewhere Else,TX,76543,USA,2023-04-05 00:00:00,2023-04-05 00:00:00
+17,William,Hernandez,william.hernandez@example.com,555-6789,456 Oak Ave,,Another Town,FL,21098,USA,2023-05-12 00:00:00,2023-05-12 00:00:00
+18,Emma,Morales,emma.morales@example.com,555-0123,789 Elm Rd,Unit 8D,Anyplace,GA,54321,USA,2023-06-20 00:00:00,2023-06-20 00:00:00
+19,Ethan,Reyes,ethan.reyes@example.com,555-4567,321 Maple Ln,,Some Place,IL,98765,USA,2023-07-01 00:00:00,2023-07-01 00:00:00
+20,Abigail,Gutierrez,abigail.gutierrez@example.com,555-8901,654 Pine Ave,Apartment 9A,Another Place,MI,43210,USA,2023-08-10 00:00:00,2023-08-10 00:00:00
+21,Benjamin,Castillo,benjamin.castillo@example.com,555-2345,987 Oak Rd,,Somewhere Else,OH,76543,USA,2023-09-15 00:00:00,2023-09-15 00:00:00
+22,Avery,Flores,avery.flores@example.com,555-6789,456 Elm St,,Another Town,PA,21098,USA,2023-10-01 00:00:00,2023-10-01 00:00:00
+23,Lucas,Rojas,lucas.rojas@example.com,555-0123,789 Maple Ave,Unit 10B,Anyplace,NC,54321,USA,2023-11-05 00:00:00,2023-11-05 00:00:00
+24,Isabella,Montoya,isabella.montoya@example.com,555-4567,321 Pine Rd,,Some Place,VA,98765,USA,2023-12-10 00:00:00,2023-12-10 00:00:00
+25,Noah,Vargas,noah.vargas@example.com,555-8901,654 Oak St,Apartment 11C,Another Place,SC,43210,USA,2024-01-01 00:00:00,2024-01-01 00:00:00
+26,Olivia,Dominguez,olivia.dominguez@example.com,555-2345,987 Elm Ave,,Somewhere Else,TN,76543,USA,2024-02-15 00:00:00,2024-02-15 00:00:00
+27,Liam,Mendoza,liam.mendoza@example.com,555-6789,456 Maple Ln,,Another Town,AL,21098,USA,2024-03-20 00:00:00,2024-03-20 00:00:00
+28,Emily,Ortiz,emily.ortiz@example.com,555-0123,789 Pine St,Unit 12D,Anyplace,LA,54321,USA,2024-04-01 00:00:00,2024-04-01 00:00:00
+29,Alexander,Diaz,alexander.diaz@example.com,555-4567,321 Oak Rd,,Some Place,TX,98765,USA,2024-05-10 00:00:00,2024-05-10 00:00:00
+30,Ava,Ramirez,ava.ramirez@example.com,555-8901,654 Elm Ave,Apartment 13A,Another Place,FL,43210,USA,2024-06-01 00:00:00,

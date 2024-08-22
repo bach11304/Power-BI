@@ -1,0 +1,10 @@
+id
+user_id
+category_id
+access_level
+start_date
+end_date
+ip_address
+user_agent
+created_at
+updated_at
